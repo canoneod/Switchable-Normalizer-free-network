@@ -45,5 +45,3 @@ def writeToJson(saveTo, params, name):
     json.dump(params, params_file)
     params_file.close()
 
-
-# for plots
