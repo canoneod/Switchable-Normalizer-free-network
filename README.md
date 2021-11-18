@@ -58,7 +58,7 @@ Graduation project in SNU-ECE/2021-1
 
 ## References
 ------
-Papers directly used in this work
+Papers directly referenced in this work
 
 1. Slimmable Neural Networks, ICLR 2019(Yu et al.) [link](https://arxiv.org/abs/1812.08928)
 2. Characterizing Signal Propagation to close the performance gap in unnormalized ResNets, ICLR 2021(Brock et al.) [link](https://arxiv.org/abs/2101.08692)
